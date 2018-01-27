@@ -97,7 +97,7 @@
 
 
 如果你修改混乱了, 请直接 **全选**, 粘贴 我的全部配置代码
-<span id="final"><span>
+<div id="final"><div>
 
 ```json
 {
