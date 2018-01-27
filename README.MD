@@ -29,5 +29,5 @@
 
 
     // 此处仅支持 PHP 7 版本(扩展基于PHP远程调试), 若用 5 版本可以先不设置
-    "php.executablePath": "D:/phpStudy/php/php-5.4.45/php.exe", // 指向 PHP 可执行文件。
+    "php.executablePath": "D:/phpStudy/php/php-7.0.12-nts/php.exe", // 指向 PHP 可执行文件。
 ```
