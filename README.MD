@@ -17,7 +17,7 @@
 如果你已安装 Auto close tag 扩展, 建议立即关闭,
 将极其影响 `echo` 创建标签包裹 PHP 内容
 
-<img src="./images/Code_2018-01-28_00-10-03.png">
+![img](images/Code_2018-01-28_00-10-03.png)
 
 ## 断点实现
 
@@ -37,9 +37,9 @@
 
    确认扩展的Xdebug和配置文件php.ini中的Xdebug已打开
 
-   <img src="./images/2018-01-28_17-04-35.png">
+   ![img](images/2018-01-28_17-04-35.png)
 
-   <img src="./images/2018-01-28_17-06-37.png">
+   ![img](images/2018-01-28_17-06-37.png)
 
 	Xde参数配置(默认为on, 一般不用改, 一般在文件末尾)
 
@@ -97,11 +97,11 @@
 
 点击 文件 - 首选项 - 用户代码片段
 
-<img src="./images/Code_2018-01-27_23-37-24.png">
+![img](images/Code_2018-01-27_23-37-24.png)
 
 弹出一个选项框, 输入`HTML`,回车
 
-<img src="./images/Code_2018-01-27_22-58-21.png">
+![img](images/Code_2018-01-27_22-58-21.png)
 
 进入 html 的 json 设置, 显示以下代码
 
@@ -150,7 +150,7 @@
 
 小白示意图:
 
-<img src="./images/Code_2018-01-27_23-13-17.png">
+![img](images/Code_2018-01-27_23-13-17.png)
 
 如果你修改混乱了, 请直接 **全选**, 粘贴 我的全部配置代码
 
@@ -171,9 +171,9 @@
 
 结束示例:
 
-<img src="./images/Code_2018-01-27_23-14-36.png">
+![img](images/Code_2018-01-27_23-14-36.png)
 
-<img src="./images/Code_2018-01-27_23-14-40.png">
+![img](images/Code_2018-01-27_23-14-40.png)
 
 ### 高玩点这里
 
