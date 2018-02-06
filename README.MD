@@ -6,7 +6,7 @@
 	- [断点实现](#%E6%96%AD%E7%82%B9%E5%AE%9E%E7%8E%B0)
 	- [插件获取](#%E6%8F%92%E4%BB%B6%E8%8E%B7%E5%8F%96)
 	- [修改设置](#%E4%BF%AE%E6%94%B9%E8%AE%BE%E7%BD%AE)
-	- [(New!) 自定义 PHP 代码片段(实际上是 HTML)](#new-%E8%87%AA%E5%AE%9A%E4%B9%89-php-%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF-html)
+	- [自定义 PHP 代码片段(实际上是 HTML)](#%E8%87%AA%E5%AE%9A%E4%B9%89-php-%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF-html)
 		- [高玩点这里](#%E9%AB%98%E7%8E%A9%E7%82%B9%E8%BF%99%E9%87%8C)
 
 > 随笔类型
@@ -93,7 +93,7 @@
     "php.executablePath": "D:/phpStudy/php/php-7.0.12-nts/php.exe", // 指向 PHP 可执行文件。
 ```
 
-## (New!) 自定义 PHP 代码片段(实际上是 HTML)
+## 自定义 PHP 代码片段(实际上是 HTML)
 
 点击 文件 - 首选项 - 用户代码片段
 
